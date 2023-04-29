@@ -1,7 +1,7 @@
 ### Hi there, I'm Lawan - aka [DARKDRAGON][website] 👋 
 
 [![Website](https://img.shields.io/website?label=LawanChaamindu.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lawanchaamindu.live)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Lawaan Chaamindu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDARKDRAGON-LK&screen_name=chaamindu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LawaanChaamindu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDARKDRAGON-LK&screen_name=chaamindu)
 
 ## I'm a Student, Developer, and Gamer!!
 
@@ -46,8 +46,8 @@
 
 </details>
 
-[website]: https://DARKDRAGON.com
-[twitter]: https://twitter.com/LawanChaamindu
+[website]: https://lawanchaamindu.live
+[twitter]: https://twitter.com/chaamindu
 [youtube]: https://youtube.com/DARK
 [instagram]: https://instagram.com/DARKDRAGON
 [linkedin]: https://linkedin.com/in/DARKDRAGON
