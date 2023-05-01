@@ -31,9 +31,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" />
-
-
+<img align="left" alt="WordPress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="Yarn" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
 
 <br />
 <br />
