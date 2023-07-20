@@ -37,11 +37,12 @@
 
 <br />
 <br />
+ <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&theme=github_dark" />
+ 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-   <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&theme=github_dark" />
   <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
 
 </details>
