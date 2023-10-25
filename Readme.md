@@ -1,4 +1,4 @@
-### Hi there, I'm Lawan - aka [DARKDRAGON][website] 👋 
+### Hi there, I'm Lawan - aka [DARK][website] 👋 
 
 [![Website](https://img.shields.io/website?label=LawanChaamindu.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lawanchaamindu.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LawaanChaamindu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDARKDRAGON-LK&screen_name=chaamindu)
@@ -45,8 +45,8 @@
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawanChaamindu&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
-  <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LawanChaamindu&show_icons=true&hide_border=true&theme=github_dark" />
+ <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
+  <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
  <br />
   <br />
 
