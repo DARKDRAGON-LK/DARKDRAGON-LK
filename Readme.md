@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -45,8 +45,8 @@
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
-  <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
+ <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawanChaamindu&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
+  <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LawanChaamindu&show_icons=true&hide_border=true&theme=github_dark" />
  <br />
   <br />
 
