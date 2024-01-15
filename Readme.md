@@ -45,13 +45,17 @@
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="DARKDRAGON-LK's GitHub Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
-  <img align="left" alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
- <br />
-  <br />
 
+ <div style="display: flex; gap: 20px;">
+  <img alt="DARKDRAGON-LK's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
+  <img alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
+</div>
+
+
+  <div align="center">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></p>
+  </div>
 </details>
-<p><c><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></c></p>
 
 [website]: https://lawanchaamindu.live
 [twitter]: https://twitter.com/chaamindu
