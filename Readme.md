@@ -51,7 +51,7 @@
   <br />
 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></p>
+<p><c><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></c></p>
 
 [website]: https://lawanchaamindu.live
 [twitter]: https://twitter.com/chaamindu
