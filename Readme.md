@@ -1,7 +1,11 @@
 ### Hi there, I'm Lawan - aka [DARK][website] 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DARKDRAGON-LK&label=Profile%20views&color=0e75b6&style=flat" alt="DARKDRAGON-LK" /> </p>
 
 [![Website](https://img.shields.io/website?label=LawanChaamindu.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lawanchaamindu.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LawaanChaamindu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDARKDRAGON-LK&screen_name=chaamindu)
+
+
+
 
 ## I'm a Student, Developer, and Gamer!!
 
@@ -55,6 +59,7 @@
   <div align="center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></p>
   </div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DARKDRAGON-LK" alt="DARKDRAGON-LK" /></a> </p>
 </details>
 
 [website]: https://lawanchaamindu.live
