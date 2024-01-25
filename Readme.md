@@ -1,4 +1,4 @@
-### Hi there, I'm Lawan - aka [DARK][website] 👋 
+### Hi there, I'm Lawan Chaamindu - aka [DARK][website] 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DARKDRAGON-LK&label=Profile%20views&color=0e75b6&style=flat" alt="DARKDRAGON-LK" /> </p>
 
 [![Website](https://img.shields.io/website?label=LawanChaamindu.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lawanchaamindu.live)
