@@ -51,7 +51,7 @@
   <summary>:zap: GitHub Stats</summary>
 
  <div style="display: flex; gap: 20px;">
-  <img alt="DARKDRAGON-LK's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
+  <img alt="DARKDRAGON-LK's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKDRAGON-LK&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
   <img alt="DARKDRAGON-LK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DARKDRAGON-LK&show_icons=true&hide_border=true&theme=github_dark" />
 </div>
 
