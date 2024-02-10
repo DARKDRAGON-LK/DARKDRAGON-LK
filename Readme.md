@@ -57,9 +57,9 @@
 
 
   <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&" alt="DARKDRAGON-LK" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKDRAGON-LK&hide_border=true&theme=github_dark" alt="DARKDRAGON-LK" /></p>
   </div>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DARKDRAGON-LK" alt="DARKDRAGON-LK" /></a> </p>
+  <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=DARKDRAGON-LK&theme=nord" alt="DARKDRAGON-LK" /></a> </p>
 </details>
 
 [website]: https://lawanchaamindu.live
