@@ -6,7 +6,6 @@
 
 
 
-
 ## I'm a Student, Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
