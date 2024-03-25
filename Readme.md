@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- 💻 Intern @ CareCode Solution Pvt LTD
+- 💻 Intern @ CareCode Solution (Pvt) LTD
 
 
 ### Connect with me:
