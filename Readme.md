@@ -8,7 +8,7 @@
 
 ## I'm a Student, Developer, and Gamer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 💻 Intern Full Stack Developer @ CareCode Solution (Pvt) LTD
 
