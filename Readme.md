@@ -12,7 +12,6 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 💻 Intern Full Stack Developer @ CareCode Solution (Pvt) LTD
 
-
 ### Connect with me:
 
 [<img align="left" alt="DARKDRAGON.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
