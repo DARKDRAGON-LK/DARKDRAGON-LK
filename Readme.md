@@ -17,6 +17,7 @@
 [<img align="left" alt="DARKDRAGON | Discord" src="https://skillicons.dev/icons?i=discord" />][discord]
 [<img align="left" alt="DARKDRAGON | Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="DARKDRAGON | Instagram" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+[<img align="left" alt="DARKDRAGON | Instagram" src="https://skillicons.dev/icons?i=gmail" />][gmail]
 
 <br />
 <br />
@@ -55,3 +56,4 @@
 [instagram]: https://instagram.com/DARKDRAGON
 [linkedin]: https://linkedin.com/in/DARKDRAGON
 [discord]: https://discord.gg/kQ34yrQb
+[gmail]: mailto:lawan.chaamindu1234@gmail.com
