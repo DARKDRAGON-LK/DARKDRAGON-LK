@@ -10,33 +10,21 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- 💻 Associate Full Stack Developer @ CareCode Solution (Pvt) LTD
+- 💻 Associate Full Stack Developer @ CareCode (Pvt) LTD
 
 ### Connect with me:
+[<img align="left" alt="DARKDRAGON | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+[<img align="left" alt="DARKDRAGON | Discord" src="https://skillicons.dev/icons?i=discord" />][discord]
+[<img align="left" alt="DARKDRAGON | Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="DARKDRAGON | Instagram" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
-[<img align="left" alt="DARKDRAGON.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DARKDRAGON | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DARKDRAGON | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="DARKDRAGON | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="DARKDRAGON | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-
+<br />
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="WordPress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="Yarn" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,electron,react,spring,redux,regex,materialui,tailwind,bootstrap,php,cpp,cs,wordpress)](https://github.com/DARKDRAGON-LK)
+[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,aws,gcp,azure,cloudflare,debian,linux,ubuntu,nginx,mongodb,mysql,npm,yarn,figma,postman,ps,ae)](https://github.com/DARKDRAGON-LK)
 
 <br />
 <br />
@@ -66,3 +54,4 @@
 [youtube]: https://youtube.com/DARK
 [instagram]: https://instagram.com/DARKDRAGON
 [linkedin]: https://linkedin.com/in/DARKDRAGON
+[discord]: https://discord.gg/kQ34yrQb
