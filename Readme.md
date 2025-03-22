@@ -25,7 +25,7 @@
 ### Languages and Tools:
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,java,nodejs,express,electron,react,spring,redux,materialui,tailwind,bootstrap,php,wordpress)](https://github.com/DARKDRAGON-LK)
-[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,aws,gcp,azure,cloudflare,debian,ubuntu,nginx,mongodb,mysql,npm,yarn,figma,postman,ps,ae)](https://github.com/DARKDRAGON-LK)
+[![My Tools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github,aws,gcp,azure,cloudflare,debian,ubuntu,nginx,mongodb,mysql,npm,yarn,figma,postman,ps,ae)](https://github.com/DARKDRAGON-LK)
 
 <br />
 <br />
